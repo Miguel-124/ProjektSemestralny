@@ -15,7 +15,5 @@ namespace ProjektSemestralny
         public string Engine { get; set; }
         public string Color { get; set; }
         public string State { get; set; }
-
-
     }
 }
